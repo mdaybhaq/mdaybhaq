@@ -44,3 +44,5 @@
 </p>
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mdaybhaq&theme=dark" alt="GitHub Streak" /></a>
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mdaybhaq&theme=dark&stroke=EB0000&ring=EB0000&fire=EB0000&currStreakLabel=EB0000" alt="GitHub Streak" /></a>
