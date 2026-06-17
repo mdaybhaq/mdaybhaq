@@ -28,19 +28,19 @@
 </p>
 
 ---
-
 ### 📫 Connect
 
 <p align="center">
   <a href="https://github.com/mdaybhaq">
-    <img src="https://img.shields.io/badge/GitHub-mdaybhaq-8B0000?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-mdaybhaq-FF003C?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdaybhaq&show_icons=true&theme=transparent&hide_border=true&title_color=8B0000&icon_color=B22222&text_color=555" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mdaybhaq&show_icons=true&theme=transparent&hide_border=true&title_color=FF003C&icon_color=FF1744&text_color=666666" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:3B0000,50:8B0000,100:D32F2F"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:8B0000,50:FF003C,100:FF4569"/>
 </p>
+
