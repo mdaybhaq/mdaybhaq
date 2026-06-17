@@ -43,6 +43,4 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:8B0000,50:FF003C,100:FF4569"/>
 </p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mdaybhaq&theme=dark" alt="GitHub Streak" /></a>
-
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mdaybhaq&theme=dark&stroke=EB0000&ring=EB0000&fire=EB0000&currStreakLabel=EB0000" alt="GitHub Streak" /></a>
