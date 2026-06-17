@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Md%20Ayubul%20Haque&fontSize=45&fontAlignY=40&desc=AI%20%7C%20ML%20Student&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:3B0000,50:8B0000,100:D32F2F&section=header&text=Md%20Ayubul%20Haque&fontSize=48&fontColor=FFFFFF&fontAlignY=40&desc=AI%20%7C%20ML%20Student&descAlignY=60"/>
 </p>
 
 <h1 align="center">Hi there 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&center=true&vCenter=true&width=600&lines=AI%2FML+Student;Currently+Learning+C+Programming;Future+DSA+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&center=true&vCenter=true&width=650&color=B22222&lines=AI%2FML+Student;Currently+Learning+C+Programming;Future+DSA+Learner" />
 </p>
 
 ---
@@ -33,14 +33,14 @@
 
 <p align="center">
   <a href="https://github.com/mdaybhaq">
-    <img src="https://img.shields.io/badge/GitHub-mdaybhaq-181717?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-mdaybhaq-8B0000?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdaybhaq&show_icons=true&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mdaybhaq&show_icons=true&theme=transparent&hide_border=true&title_color=8B0000&icon_color=B22222&text_color=555" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:3B0000,50:8B0000,100:D32F2F"/>
 </p>
