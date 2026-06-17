@@ -22,17 +22,24 @@
 
 ### 🛠️ Technologies
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,subl,vscode,git,github" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,python,vscode,git,github" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" height="48" alt="Sublime Text"/>
 </p>
 
 ---
 
 ### 📫 Connect
 
-<a href="https://github.com/mdaybhaq">
-  <img src="https://img.shields.io/badge/GitHub-mdaybhaq-181717?style=for-the-badge&logo=github">
-</a>
+<p align="center">
+  <a href="https://github.com/mdaybhaq">
+    <img src="https://img.shields.io/badge/GitHub-mdaybhaq-181717?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdaybhaq&show_icons=true&theme=transparent&hide_border=true" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
