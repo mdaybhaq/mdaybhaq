@@ -1,18 +1,12 @@
-<html>
-<div align="center"
-     style="
-     background: url('https://i.ibb.co/9HmsBStq/background.jpg') center/cover no-repeat;
-     padding: 30px;
-     border-radius: 15px;">
-
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Md%20Ayubul%20Haque&fontSize=45&fontAlignY=40&desc=AI%20%7C%20ML%20Student&descAlignY=60"/>
+</p>
 
-  <h1>Hi there 👋</h1>
+<h1 align="center">Hi there 👋</h1>
 
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&center=true&vCenter=true&width=600&lines=AI%2FML+Student;Currently+Learning+C+Programming;Future+DSA+Learner" />
-
-</div>
-
+</p>
 
 ---
 
