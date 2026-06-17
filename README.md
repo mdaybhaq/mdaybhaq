@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:3B0000,50:8B0000,100:D32F2F&section=header&text=Md%20Ayubul%20Haque&fontSize=48&fontColor=FFFFFF&fontAlignY=40&desc=AI%20%7C%20ML%20Student&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=FF003C&section=header&text=Md%20Ayubul%20Haque&fontSize=48&fontColor=FFFFFF&fontAlignY=40&desc=AI%20%7C%20ML%20Student&descAlignY=60"/>
 </p>
+
+
 
 <h1 align="center">Hi there 👋</h1>
 
