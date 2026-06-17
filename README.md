@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdaybhaq&show_icons=true&theme=transparent&hide_border=true&title_color=res&icon_color=B22222&text_color=555" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mdaybhaq&show_icons=true&theme=transparent&hide_border=true&title_color=8B0000&icon_color=B22222&text_color=555" />
 </p>
 
 <p align="center">
