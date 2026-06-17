@@ -38,10 +38,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mdaybhaq&show_icons=true&theme=transparent&hide_border=true&title_color=FF003C&icon_color=FF1744&text_color=666666&cache_seconds=60"/>
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:8B0000,50:FF003C,100:FF4569"/>
-</p>
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mdaybhaq&theme=dark&stroke=EB0000&ring=EB0000&fire=EB0000&currStreakLabel=EB0000" alt="GitHub Streak" /></a>
 </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:8B0000,50:FF003C,100:FF4569"/>
+</p>
+
