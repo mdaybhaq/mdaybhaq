@@ -23,7 +23,7 @@
 ### 🛠️ Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,python,vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=c,subl,vscode,git,github" />
 </p>
 
 ---
